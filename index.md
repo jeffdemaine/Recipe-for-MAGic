@@ -27,7 +27,7 @@ On OpenRefine’s main page, switch to the `Open Project tab` (assuming you have
 This highlights text as a 'button': `SoR_metadata`.
 
 
-![Open an existing OpenRefine Project](assets/img/SoR_openproject.png)
+![Open an existing OpenRefine Project](Panoramix 1.jpeg)
 
 ```r
 # Split into words by whitespace for a quick inspection:
