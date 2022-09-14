@@ -1,26 +1,25 @@
 ---
 layout: home
 title: Home
-description: ARL DSI 2021 Workshop
+description: Presented at the Access 2022 conference. October 12-14th, 2022: Carleton University, Ottawa.
 nav_order: 1
 ---
 
-# SECTION HEADER 1
-
-*Note: this text is italicized...*
+# MAGic made easy
+*A step-by-step guide on how to identify the most "DISRUPTIVE" academid articles from a given university.*
 
 This is an internal hyperlink: [Preparation](preparation).
 
+# Components
 
-## Part I
-
-### Introduction
-
+## Microsoft Academic Graph ["MAG"]
 In the first part of today's workshop, we'll ...
 
-### Selecting texts using metadata and facets
-
+## OpenAlex
 You may need to ...
+
+## Small Teams dataset
+
 
 On OpenRefine’s main page, switch to the `Open Project tab` (assuming you have already created the project ahead of time...if you haven’t yet, head over to the [Preparation](preparation) to find out how!)
 
