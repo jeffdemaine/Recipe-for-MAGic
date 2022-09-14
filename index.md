@@ -7,7 +7,7 @@ nav_order: 1
 *A step-by-step guide on how to identify the most "DISRUPTIVE" academic articles from a given university.*
 
 
-![images/Panoramix_stamp_Belgique.jpg]
+!(images/Panoramix_stamp_Belgique.jpg)
 
 # Ingredients:
 
