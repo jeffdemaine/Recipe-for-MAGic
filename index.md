@@ -30,7 +30,8 @@ Due to the increasing speed & size of mainstream science, the "Top 1%" (i.e. mos
 - #### Lingfei Wu; Dashun Wang; James Evans, 2021, "Replication Data for: Large teams develop and small teams disrupt science and technology", https://doi.org/10.7910/DVN/JPWNNK, Harvard Dataverse, V1. https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JPWNNK
 
 
-## SQLite
+## [SQLite](https://www.sqlite.org/index.html)
+A small, fast, self-contained, high-reliability, full-featured, SQL database engine that is built in to the R programming language.
 
 
 # Instructions:
