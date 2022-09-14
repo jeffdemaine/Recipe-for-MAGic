@@ -28,3 +28,10 @@ This highlights text as a 'button': `SoR_metadata`.
 
 
 ![Open an existing OpenRefine Project](assets/img/SoR_openproject.png)
+
+```r
+# Split into words by whitespace for a quick inspection:
+snoopy <- c(1, 2, 3, 4)
+
+print(type(snoopy))
+```
