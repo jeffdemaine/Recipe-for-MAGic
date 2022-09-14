@@ -20,13 +20,16 @@ You may need to ...
 
 ## Small Teams dataset
 
-
 On OpenRefine’s main page, switch to the `Open Project tab` (assuming you have already created the project ahead of time...if you haven’t yet, head over to the [Preparation](preparation) to find out how!)
 
 This highlights text as a 'button': `SoR_metadata`.
 
+## SQLite
 
-![Open an existing OpenRefine Project](Panoramix 1.jpeg)
+
+# Instructions:
+To combine these datasets, use the R language and follow the [Recipe](recipe.md). 
+
 
 ```r
 # Split into words by whitespace for a quick inspection:
