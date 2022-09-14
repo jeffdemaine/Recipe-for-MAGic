@@ -8,7 +8,7 @@ nav_order: 1
 
 This is an internal hyperlink: [Preparation](preparation).
 
-# Components
+# Ingredients
 
 ## Microsoft Academic Graph ["MAG"]
 An experimental bibliographic database of ~150 million records that was freely available from 2015 TO 2021. No longer supported. 
@@ -16,7 +16,7 @@ An experimental bibliographic database of ~150 million records that was freely a
 - #### Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015. An Overview of Microsoft Academic Service (MAS) and Applications. In Proceedings of the 24th International Conference on World Wide Web (WWW ’15 Companion). ACM, New York, NY, USA, 243-246. http://dx.doi.org/10.1145/2740908.2742839
 
 
-## OpenAlex
+## [OpenAlex](https://openalex.org)
 A new, free bibliographic database of 250+ million records. Built upon the MAG, it collects metadata from CrossRef and PubMed and is growing by 50,000 records per day.
 
 - #### Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. https://arxiv.org/abs/2205.01833
