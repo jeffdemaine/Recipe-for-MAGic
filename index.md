@@ -8,9 +8,9 @@ nav_order: 1
 
 This is an internal hyperlink: [Preparation](preparation).
 
-# Ingredients
+# Ingredients:
 
-## Microsoft Academic Graph ["MAG"]
+## [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) *"MAG"
 An experimental bibliographic database of ~150 million records that was freely available from 2015 TO 2021. No longer supported. 
 
 - #### Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015. An Overview of Microsoft Academic Service (MAS) and Applications. In Proceedings of the 24th International Conference on World Wide Web (WWW ’15 Companion). ACM, New York, NY, USA, 243-246. http://dx.doi.org/10.1145/2740908.2742839
@@ -22,11 +22,11 @@ A new, free bibliographic database of 250+ million records. Built upon the MAG, 
 - #### Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. https://arxiv.org/abs/2205.01833
 
 
-## Small Teams dataset
+## [Small Teams Disrupt](https://lingfeiwu.github.io/smallTeams/)
 
 Due to the increasing speed & size of mainstream science, the "Top 1%" (i.e. most cited) is attracting all the attention. Research that is less immediately impactful is being overlooked.  This is leading to a lack of innovation. The insight is that large teams develop and small teams disrupt science and technology.
 
-DATASET IS AVAILABLE (19.4mb):
+[DATASET IS AVAILABLE](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JPWNNK) *19.4mb:
 - #### Lingfei Wu; Dashun Wang; James Evans, 2021, "Replication Data for: Large teams develop and small teams disrupt science and technology", https://doi.org/10.7910/DVN/JPWNNK, Harvard Dataverse, V1. https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JPWNNK
 
 
