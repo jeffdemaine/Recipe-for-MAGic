@@ -2,6 +2,7 @@ Executing this step-by-step "Recipe" will associate the metadata of articles fro
 - Lingfei Wu; Dashun Wang; James Evans, 2021, "Replication Data for: Large teams develop and small teams disrupt science and technology", https://doi.org/10.7910/DVN/JPWNNK, Harvard Dataverse, V1 
   https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JPWNNK
 
+![Potion magique](images/Panoramix_1.jpeg)
 
 ```R
 # R script for the "MAGic made easy" process presented at the 
