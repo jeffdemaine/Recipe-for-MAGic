@@ -44,5 +44,17 @@ A small, fast, self-contained, high-reliability, full-featured, SQL database eng
 
 This is all performed using the R language (typically in R Studio) by following the [Recipe](recipe.md). 
 
-Don't feel like cooking? Articles published in 2020 have been matched to the associated Small Teams disruption score for 10 Canadian universities:
+# Don't feel like cooking? 
+Articles published in 2020 have been matched to the associated Small Teams disruption score for 10 Canadian universities:
 - [Carleton University](/ResultsByUniversity/Disruption_Carleton_2020.csv)
+- [University of Calgary](/ResultsByUniversity/Disruption_Calgary_2020.csv)
+- [Dalhousie University](/ResultsByUniversity/Disruption_Dalhousie_2020.csv)
+- [McGill University](/ResultsByUniversity/Disruption_McGill_2020.csv)
+- [McMaster University](/ResultsByUniversity/Disruption_McMaster_2020.csv)
+- [Université de Montréal](/ResultsByUniversity/Disruption_Montreal_2020.csv)
+- [Queen's University](/ResultsByUniversity/Disruption_Queens_2020.csv)
+- [Simon Fraser University](/ResultsByUniversity/Disruption_SFU_2020.csv)
+- [Western University](/ResultsByUniversity/Disruption_Western_2020.csv)
+- [York University](/ResultsByUniversity/Disruption_York_2020.csv)
+
+(Pssst: don't see your university listed above? Send me a message [demainj@mcmaster.ca] and I can generate a custom report for you.)
