@@ -1,4 +1,4 @@
 # Recipe-for-MAGic
 Find Small teams/Disruptive articles in OpenAlex by MAG id using R
 
-Snoopy
+The Microsoft Academic Graph (MAG) was shut down at the end of 2021, but the “MAGic” continues. This workshop will demonstrate how to query the API of the new OpenAlex database (which builds upon the MAG) from within an R script using the new openalexR package. In addition, the freely-available “Small Teams Disrupt” dataset of 19.4 million records that is at the core of Lingfei Wu’s research will be presented (https://lingfeiwu.github.io/smallTeams/). This dataset provides a metric which quantifies how innovative (or disruptive) a publication is. By combining the results from the OpenAlex query with and records from the “Small Teams” dataset, the most disruptive publications from a given university can be identified. These will then be analyzed using the bibliometrix R package. This process will be presented as a recipe (an R script) that you can use to identify the most innovative research from your institution.
