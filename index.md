@@ -38,8 +38,8 @@ A small, fast, self-contained, high-reliability, full-featured, SQL database eng
 
 # Instructions:
 - Download Small Teams dataset.
-- Query OpenAlex to get articles.
-- Combine these using SQL.
-- Output article data with disruption score.
+- Query OpenAlex to get articles from a given university in a given year.
+- Combine these using an SQL query (with RSQLite).
+- Output article metadata with disruption score.
 
 This is all performed using the R language (typically in R Studio) by following the [Recipe](recipe.md). 
