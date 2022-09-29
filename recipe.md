@@ -78,7 +78,7 @@ dbExecute(temp.db, "DROP VIEW myview")
 # [2.2] PARSE out the MAGid from the "id" field into a table "view":
 dbExecute(temp.db, "CREATE VIEW myview AS SELECT *, SUBSTR(id, 23, 10) AS MAGid FROM OpenAlex_results")
 
-# [2.3] Check to see that the MAGid has been parse in the correct format:
+# [2.3] Check to see that the MAGid has been parsed in the correct format:
 peekaboo <- dbGetQuery(temp.db, "SELECT * FROM myview LIMIT 10;")
 View(peekaboo)
 
