@@ -43,3 +43,6 @@ A small, fast, self-contained, high-reliability, full-featured, SQL database eng
 - Output article metadata with disruption score.
 
 This is all performed using the R language (typically in R Studio) by following the [Recipe](recipe.md). 
+
+Don't feel like cooking? Articles published in 2020 have been matched to the associated Small Teams disruption score for 10 Canadian universities:
+- [Carleton University](/ResultsByUniversity/Disruption_Carleton_2020.csv)
