@@ -7,6 +7,9 @@ Executing this step-by-step "Recipe" will associate the metadata of articles fro
 ```R
 # R script for the "MAGic made easy" process presented at the BRIC 2022 conference.
 # The aim is to assign a "disruption score" to articles from a given university.
+# Presented at: 
+# - BRIC conference (June 2022) in Hamilton, ON [Original]
+# - ACCESS conference (October 2022) in Ottawa, ON [Updated to work with openalexR v1.0]
 # Jeff Demaine (ORICD #0000-0003-4586-1317), June 2022. Version 2, October 2022
 
 # [SETUP A] Fetch the packages:
